@@ -12,4 +12,4 @@ Code and example samples can be found in the Google Colab demo below. The demo m
 
 ## Evaluation
 
-Additional samples and evaluation metrics can be found in the linked [folder](https://drive.google.com/drive/folders/1x3fxktwavfNckBuAcOLoHJFJt9Mb-FsS?usp=sharing)
+Sample audio files and plots, as well as evaluation metrics/plots can be found in the linked [folder](https://drive.google.com/drive/folders/1x3fxktwavfNckBuAcOLoHJFJt9Mb-FsS?usp=sharing)
